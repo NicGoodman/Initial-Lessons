@@ -1,3 +1,3 @@
 fun main() {
-    println("What's up Bitches?!?")
+    println("What's up Bitches?")
 }
